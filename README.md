@@ -11,13 +11,16 @@ I analyzed the data from 4,113 Kickstarter campaigns to determine what factors l
 
 ### Analysis of Outcomes Based on Launch Date
 While theater campaigns were more likely to meet their funding goal regardless of their launch date, campaigns were more successful if they were launched in May. Additionally, theater campaigns launched in December were more least likely to succeed in relation to other months, as 35 out of the the 75 launched did not meet their funding goals.
+
 ![Theater Outcomes vs. Launch Date](/Theater_Outcomes_vs_Launch.png)
 
 Additionally, in 2016 and 2017, theater campaigns were more successful if they were launched in January, February, March, April, and May, but there is a sharp drop off in June. 
+
 ![Theater Outcomes vs. Launch Date in 2016 & 2017](/Theater_Outcomes_vs_Launch_2016_2017.png)
 
 ### Analysis of Outcomes Based on Goals
 Crowdfunding Kickstarter campaigns for plays were more successful with smaller fundraising goals. Goals that were under $5,000 were about 75% successful, and goals between $5,000 and $25,000 were roughly 50% successful. 
+
 ![Outcomes Based on Goal](/Outcomes_vs_Goals.png)
 
 This is also true for plays that were launched in the United States. Successful play campaigns in the U.S. had a mean goal of $5,049 and failed campaigns had a mean goal of $10,554.
